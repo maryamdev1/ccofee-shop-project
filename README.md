@@ -1,1 +1,2 @@
-project on coffee shop intenship
+HTML internship project on coffee shop
+
